@@ -1,0 +1,17 @@
+,Type,Sentiment,Score
+7,super love,positive,75
+9,adore,positive,72
+1,want,positive,70
+8,cherish,positive,70
+6,love,positive,65
+0,heart,positive,60
+10,like,positive,50
+12,intrigued,positive,45
+13,peeking,neutral,35
+4,interested,positive,30
+5,indifferent,neutral,20
+14,scared,negative,15
+15,worried,negative,12
+11,dislike,negative,10
+3,hate,negative,5
+2,disgust,negative,0
